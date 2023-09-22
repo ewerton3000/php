@@ -1,0 +1,10 @@
+1 - Recebi a mensagem "error: failed to push some refs". Como resolver?
+    https://www.udemy.com/course/curso-php-7-online/learn#questions/5908018
+    https://www.udemy.com/course/curso-php-7-online/learn#questions/6042968
+    https://www.udemy.com/course/curso-php-7-online/learn#questions/6336014
+
+2 - Foi retornado a mensagem "Please tell me who you are". Como resolver?
+    https://www.udemy.com/course/curso-php-7-online/learn#questions/6291002
+
+3 - O Git retornou a mensagem "Please make sure you have the correct access rights"
+    https://www.udemy.com/course/curso-php-7-online/learn#questions/6832692

@@ -1,0 +1,67 @@
+<html>
+<head>
+<meta name="DESCRIPTION" content="Tag DIV 2 partes sites prontos.">
+<meta name="KEYWORDS" content="division tag">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>CALL HELP TI | Socorro através dos chamados</title>
+<script type="text/javascript">
+function validaCampo()
+{
+if(document.cadastro.login.value=="")
+{
+alert("O Campo Login é obrigatório!");
+return false;
+}
+else
+if(document.cadastro.senha.value=="")
+{
+alert("Digite uma senha!");
+return false;
+}
+else
+return true;
+}
+<!-- Fim do JavaScript que validará os campos obrigatórios! -->
+</script>
+</head>
+ 
+<body bgcolor="gray">
+<form action="login_vai.php" method="post">
+<div align="center"><h3>CALL HELP TI</h3></div>
+<div align="center"><img src="CALL HELP TI.jpg"></div>
+<br>
+<div align="center">Login: <input type="text" name="login"></div><br>
+<div align="center">Senha: <input type="password" name="senha"></div><br>
+<div align="center"><input type="submit" value="Entrar"></div>
+</form>
+</div>
+
+
+<br>
+<div align="center"><font color="blue"><H3>Cadastre-se! </H3></font></div>
+<br>
+<div align="center"> Para poder utilizar o sistema de chamados, é necessário fazer o cadastro primeiramente! </div>
+<br>
+<form id="cadastro" name="cadastro" method="post" action="criarusuario2.php" onsubmit="return validaCampo(); return false;">
+      
+      <div align="center">Nome: <input name="nome" type="text" id="nome" maxlength="12">
+      <font color="red">*</font></div><br>
+      <div align="center">Login: <input name="login" type="text" id="login" maxlength="12">
+        <font color="red">*</font></div>
+    <br>
+      <div align="center">Senha: <input name="senha" type="password" id="senha" maxlength="12">
+          <font color="red">*</font></div>
+    
+        <br>
+        <div align="center"><input name="cadastrar" type="submit" id="cadastrar" value="Cadastrar" />
+       
+ 
+          <input name="limpar" type="reset" id="limpar" value="Limpar Campos preenchidos!" /></div>
+         
+ 
+          <div align="center"><font color="red"><H3>* Campos com * são obrigatórios! </H3> </font></p></div>
+     
+</form>
+</div>
+</body>
+</html>

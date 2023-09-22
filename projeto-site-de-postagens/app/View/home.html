@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<section>
+					<h1>Postagens:</h1>
+					<!--Usando o for do twig no html com o array postagens -->
+					{% for postagem in postagens%}
+					<article>
+						<header> <!--Puxando do SQL da tabela postagem o titulo-->
+							<h2><a href="http://127.0.0.1/projeto-site-de-postagens/?pagina=post&id={{postagem.id}}">{{postagem.titulo}}</a></h2>
+						</header>
+						<p>{{postagem.conteudo}} | {{postagem.id}}</p>
+					</article>
+					{% endfor %}
+					<!--Fechando o for do twig-->
+				</section>
+			</head>
+			</html>
+
+
+			
+							<!--Puxamos os dados do SQL pelo Homecontroller.php e depois usamos paramteros {{parametro}} para inserir os valores do SQL correspondentes
+								exemplo ={{tabela.linha}}
+
+						Isso é possivel graças ao composer e o twig-->

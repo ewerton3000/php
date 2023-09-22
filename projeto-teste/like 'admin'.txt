@@ -1,0 +1,3 @@
+$SQL = "SELECT id,titulo, conteudo, data 
+        FROM aut_noticias
+        WHERE usuario like 'admin'";

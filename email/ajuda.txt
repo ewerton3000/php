@@ -1,0 +1,23 @@
+
+O require é usado para ter um arquivo ou link como dependencia(ele pode puxar bilbiotecas do php tbm)
+no caso abaixo é usado um link do phpmailer
+
+
+
+
+
+Você que esta sofrendo com o erro de
+
+Mailer Error: SMTP connect() failed ou de Usuário e senha errados, mesmo estando certos.
+
+Tenho uma solução para você, o erro não esta em seu código.
+
+::: PASSOS :::
+
+1 - Primeiramente você tem que desativar a opção de verificação de 2 etapas da sua conta do Google.
+
+2 - Depois acessar https://myaccount.google.com/lesssecureapps e Permitir aplicativos menos seguros, deixando em ativado.
+
+3 - Logo em seguida entrar nessa URL https://www.google.com/accounts/DisplayUnlockCaptcha e clicar em continuar.
+
+Pronto, agora e só rodar seu script novamente é você vai conseguir enviar seus e-mails direto do Localhost.

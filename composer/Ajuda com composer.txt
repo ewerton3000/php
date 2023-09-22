@@ -1,0 +1,1 @@
+O composer não aceita comentários porque quando você executa o arquivo com texto digitado ele da erro perto da linha em que vc digitou (talvez ele use um outro tipo de comentário talvez vc descubra qual será a tag que deve ser usada!)

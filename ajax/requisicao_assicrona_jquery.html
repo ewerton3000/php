@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+
+		<title>Ajax fácil com JQuery puro</title>
+		
+		<!-- bootstrap - link cdn -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	
+	<!--Javascript-->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+	<script type="text/javascript">
+		
+		$(document).ready( function(){
+       
+     //Método 
+     $('.btn_carrega_conteudo').click(function(){
+     
+     //alert('teste');
+      //alert(carrega_url); <-Para testar se bate com a id
+      //alert(carrega_url);
+
+
+       var carrega_url = this.id;    
+       carrega_url = carrega_url+'_conteudo.html';   
+
+
+//Usando a função ajax
+       $.ajax({
+
+       	url: carrega_url,
+
+        //caso tenha sucesso executará a função
+       	success: function(data){//Parametro data
+       		//alert("requisição feita com sucesso");<- para teste 
+       		//OBS: Abaixo o simbolo de id(#) ou class(.) é obrigatório
+       		$('#div_conteudo').html(data);//Puxando o conteudo pela id e usando o parametro
+       	},
+     //OBS:Se criar uma nova função no $.ajax é obrigatório usar uma virgula no parentese que fecha a função para iniciar outra
+     
+
+     //Usando a propriedade beforeSend quando a requisição estiver carregando
+     beforeSend: function(){
+     //Puxando a id correspondente para mudar seu estado pelo display para block no css
+     $('#loader').css({display:"block"});
+     },
+     
+     //Usando a propriedade complete para completa a requisição
+     complete: function(){
+     //Puxando a id correspondente para mudar seu estado pelo display para none no css
+      $('#loader').css({display:"none"});
+     }
+
+      
+       
+        })
+
+     });
+
+ 		});
+		
+	</script>
+
+	</head>
+
+	<body>
+
+		<!-- Static navbar -->
+	    <nav class="navbar navbar-default navbar-static-top">
+	      <div class="container">
+	        <div class="navbar-header">
+	        	<h3>Requisições síncronas e assíncronas</h3>
+	        </div>
+	      </div>
+	    </nav>
+
+
+	    <div class="container">
+
+	    	<div class="row">
+	    		<div class="col-md-4 center"></div>
+	    		<div class="col-md-4 center">
+	    <!--Usando a função do JS para mostrar o conteúdo na página e usando a div conteudo para recebela onde a id = div_conteudo está-->		
+	    			<a href="#" class="btn btn-primary btn_carrega_conteudo" id="pagina_1">Página 1</a>
+	    			<a href="#" class="btn btn-primary btn_carrega_conteudo" id="pagina_2">Página 2</a>
+	    			<a href="#" class="btn btn-primary btn_carrega_conteudo" id="pagina_3">Página 3</a>
+	    		</div>
+	    		<div class="col-md-4 center"></div>
+	    	</div>
+	    	
+	    	<br />
+	    	<div class="row">
+		    	<div class="col-md-1"></div>
+                
+                <!--Usando a div para receber um conteudo-->
+		    	<div class="col-md-10" id="div_conteudo">
+		    		
+		    		<img src="loader.gif" style="display: none"id="loader"> 
+		    	</div>
+		    		
+				<div class="col-md-1"></div>
+			</div>
+
+		</div>	
+	</body>
+</html>
+
+<!--
+Propriedades do ajax: beforeSend:
+
+-->

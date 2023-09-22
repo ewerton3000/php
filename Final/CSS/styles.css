@@ -1,0 +1,505 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent; }
+
+body {
+  line-height: 1; }
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+nav ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent; }
+
+/* change colours to suit your needs */
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none; }
+
+/* change colours to suit your needs */
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold; }
+
+del {
+  text-decoration: line-through; }
+
+abbr[title], dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* change border colour to suit your needs */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #cccccc;
+  margin: 1em 0;
+  padding: 0; }
+
+input, select {
+  vertical-align: middle; }
+
+.col, .servicos article {
+  margin: auto;
+  vertical-align: top;
+  display: inline-block;
+  width: 100%; }
+  .col img, .servicos article img {
+    max-width: 100%; }
+
+/*----- Clearfix: Force an Element not to collapse -----*/
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%; }
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; }
+
+.blue {
+  background-color: #adc4e8; }
+
+img {
+  width: 100%; }
+
+.ghost {
+  visibility: hidden;
+  display: none; }
+
+/*Header Styles*/
+header {
+  padding-top: 3rem; }
+  header nav {
+    width: 100%;
+    height: 2.9rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: left;
+    background-color: white; }
+    header nav .nanotec {
+      font-size: 1.8rem;
+      text-decoration: none;
+      color: #5e8ad1;
+      font-weight: 500;
+      float: left;
+      padding: 0.7rem .5rem;
+      position: relative;
+      z-index: 2; }
+    header nav i {
+      font-size: 2rem;
+      float: right;
+      padding: .5rem .8rem;
+      color: #5e8ad1;
+      position: relative;
+      z-index: 2; }
+    header nav ul {
+      width: 100%;
+      background-color: #222;
+      position: fixed;
+      top: -20rem;
+      left: 0rem;
+      transition: 0.5s ease;
+      padding-top: 3.5rem;
+      text-align: center;
+      z-index: 1; }
+      header nav ul a {
+        color: #86a7dc;
+        text-decoration: none;
+        width: 100%;
+        display: inline-block;
+        font-size: 1.6rem;
+        padding: 1rem 0; }
+      header nav ul a:hover {
+        background-color: #e6e6e6; }
+  header .onthis {
+    background-color: #86a7dc;
+    color: white; }
+  header .hero {
+    width: 100%;
+    height: 15rem;
+    background-image: url("../images/drk-Capybara.jpeg");
+    background-size: cover;
+    padding-top: 8rem;
+    color: white; }
+    header .hero h1 {
+      font-size: 2.6rem;
+      line-height: 3.2rem;
+      font-weight: 400; }
+      header .hero h1 span {
+        color: #5e8ad1;
+        font-weight: 500; }
+
+/*Main Styles*/
+main section {
+  padding: 2rem 0; }
+  main section h2 {
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: #5e8ad1;
+    margin-bottom: 1rem; }
+main .sobre h2 {
+  border-bottom: 1px solid #5e8ad1;
+  width: 80%;
+  padding-bottom: .3rem;
+  margin: 1.5rem auto; }
+main .sobre p {
+  width: 90%;
+  text-align: left;
+  margin: auto;
+  font-size: 1.1rem;
+  line-height: 1.2rem;
+  color: #333; }
+main .servicos {
+  background-color: #86a7dc; }
+  main .servicos h2 {
+    margin-bottom: 0;
+    color: white; }
+  main .servicos article {
+    width: 85%;
+    background-color: white;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-radius: .2rem;
+    overflow: hidden; }
+  main .servicos i {
+    font-size: 4rem;
+    color: #5e8ad1; }
+  main .servicos h3 {
+    margin: .5rem 0;
+    font-size: 1.2rem;
+    color: #386ec4; }
+  main .servicos p {
+    text-align: left;
+    width: 90%;
+    margin: auto;
+    border-top: 1px solid #5e8ad1;
+    padding-top: 1rem;
+    line-height: 1.4rem; }
+main .box {
+  background-color: white;
+  margin: auto;
+  border-radius: .2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem 0; }
+  main .box h2 {
+    font-size: 1.7rem;
+    color: #5e8ad1;
+    font-weight: 500;
+    margin-bottom: 1rem; }
+  main .box a {
+    display: inline-block;
+    color: #3669bc;
+    text-decoration: none;
+    width: 70%;
+    border: 1px solid #86a7dc;
+    margin: .5rem 0;
+    font-size: 1.5rem;
+    border-radius: .2rem;
+    padding: .5rem 0; }
+  main .box p {
+    margin: 1rem 0; }
+  main .box input {
+    border: 1px solid #86a7dc;
+    padding: .5rem;
+    color: #86a7dc;
+    font-size: 1.1rem;
+    margin-top: .5rem; }
+  main .box input:focus {
+    outline: none; }
+  main .box button {
+    margin: .5rem 0;
+    font-size: 1.4rem;
+    color: white;
+    background-color: #86a7dc;
+    border: 1px solid white;
+    border-radius: .2rem;
+    padding: .5rem .8rem;
+    cursor: pointer; }
+main .escolha, main .cadastro {
+  width: 90%; }
+main .cadastro {
+  text-align: center;
+  padding: 1rem; }
+  main .cadastro .wider {
+    width: 80%;
+    margin-top: -.2rem; }
+    main .cadastro .wider b {
+      color: #5e8ad1;
+      line-height: 1.4rem; }
+  main .cadastro label {
+    font-weight: 400;
+    color: #444;
+    font-size: 1.3rem; }
+    main .cadastro label span {
+      color: #888;
+      font-size: .9rem; }
+  main .cadastro p {
+    text-align: left; }
+  main .cadastro h3 {
+    margin-top: 2rem;
+    color: #3669bc;
+    font-size: 1.4rem;
+    font-weight: 400;
+    width: 60%;
+    margin: auto;
+    padding-bottom: .7rem;
+    border-bottom: 1px solid lightgrey; }
+  main .cadastro .h3especial {
+    color: #222;
+    border: none;
+    font-size: 1.1rem;
+    font-weight: bold; }
+main .especial {
+  color: #3669bc;
+  font-weight: bold;
+  padding: 1rem 0;
+  text-align: left; }
+main .check {
+  cursor: pointer; }
+main .painel {
+  width: 90%; }
+  main .painel h2 {
+    color: black;
+    font-size: 1.4rem; }
+    main .painel h2 span {
+      color: #5e8ad1; }
+main .visor {
+  width: 90%; }
+
+/*Footer styles*/
+@media only screen and (min-width: 560px) {
+  /*For tablet screens*/
+  /* ----------- GRID ----------- */
+  /*Header Styles*/
+  header .hero h1 {
+    font-size: 3rem; }
+
+  /*Main Styles*/
+  main .sobre {
+    background-image: url("../images/memphis.png");
+    background-attachment: fixed; }
+  main .servicos article {
+    width: 42%;
+    height: 35rem;
+    text-align: center;
+    margin: 1rem; }
+  main .box p {
+    display: inline-block; }
+  main .box a:hover {
+    background-color: #86a7dc;
+    color: white;
+    transition: 0.5s ease; }
+  main .box button:hover {
+    background-color: white;
+    color: #3669bc;
+    transition: 0.5s ease;
+    border: 1px solid #86a7dc; }
+  main .sobre h2 {
+    width: 50%; }
+  main .sobre p {
+    width: 70%; }
+  main .escolha {
+    width: 50%; }
+  main .cadastro {
+    text-align: center; }
+    main .cadastro p {
+      text-align: left;
+      width: 45%;
+      display: inline-block; }
+      main .cadastro p input {
+        width: 90%; }
+  main select {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #3669bc;
+    border: 1px solid #3669bc;
+    padding: .5rem;
+    margin: 1rem 0; }
+  main textarea {
+    width: 80%;
+    height: 10rem;
+    resize: none; }
+  main .login {
+    width: 40%; }
+  main .painel a {
+    font-size: 1.3rem;
+    width: 40%;
+    padding: .7rem; }
+  main .painel p {
+    width: 45%; }
+  main .pedidos {
+    width: 80%; }
+    main .pedidos p {
+      width: 45%;
+      display: inline-block; }
+  main .visor {
+    width: 90%; }
+    main .visor h3 {
+      font-size: 1.6rem;
+      font-weight: 500;
+      color: #3669bc; }
+    main .visor p {
+      width: 49%;
+      display: inline-block; }
+    main .visor .block {
+      border: 1px solid lightgrey;
+      margin-top: -1px; }
+      main .visor .block a {
+        width: auto;
+        border: none;
+        font-size: 1.2rem;
+        text-decoration: underline; }
+      main .visor .block b {
+        color: #3669bc;
+        font-size: 1.2rem;
+        line-height: 3rem; }
+    main .visor .red {
+      border: 1px solid red;
+      color: red; }
+    main .visor li {
+      list-style-type: none; }
+
+  /*Footer styles*/ }
+@media only screen and (min-width: 1140px) {
+  /*For pc screens*/
+  /* ----------- GRID ----------- */
+  /*Header Styles*/
+  .main-head {
+    height: 30rem; }
+
+  header nav {
+    z-index: 3; }
+    header nav i {
+      display: none;
+      visibility: hidden;
+      float: left; }
+    header nav ul {
+      position: relative;
+      top: 0;
+      left: 0;
+      background-color: transparent;
+      padding: 0;
+      text-align: right; }
+      header nav ul a {
+        font-size: 1.3rem;
+        padding: .8rem 0;
+        font-weight: 500;
+        width: 13%;
+        text-align: center; }
+  header .hero {
+    height: 25rem;
+    overflow: hidden; }
+    header .hero img {
+      content: none; }
+    header .hero h1 {
+      font-size: 4.5rem;
+      margin-top: 5rem;
+      position: relative;
+      z-index: 2; }
+      header .hero h1 span {
+        color: #5e8ad1; }
+    header .hero video {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 0;
+      -webkit-filter: hue-rotate(50deg);
+      /* Safari 6.0 - 9.0 */
+      filter: hue-rotate(50deg); }
+
+  /*Main Styles*/
+  main .sobre {
+    padding-top: 5rem; }
+    main .sobre h2 {
+      font-size: 2.3rem;
+      color: #222; }
+  main .servicos h2 {
+    font-size: 2.3rem;
+    margin-bottom: 1rem; }
+  main .servicos article {
+    width: 25%; }
+    main .servicos article p {
+      padding: 2rem 0; }
+  main .escolha {
+    width: 30%; }
+    main .escolha a {
+      width: 60%; }
+  main .cadastro {
+    width: 60%; }
+  main .login {
+    width: 30%;
+    margin-top: 6rem; }
+    main .login input {
+      width: 80%; }
+  main .painel {
+    width: 60%; }
+    main .painel h2 {
+      font-size: 2rem;
+      color: #333; }
+    main .painel a {
+      width: 40%;
+      margin: 1rem 1.5rem; }
+  main .visor {
+    width: 60%; }
+    main .visor a {
+      width: auto;
+      padding: 0.5rem; }
+
+  /*Footer styles*/ }
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,18 @@
+{
+    "name": "hcode/composer",
+    "description": "Testes de crud com composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ewerton3000",
+            "email": "ewt500@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev" ,
+    
+    "require": {
+       
+        "php": ">=7.4.7",
+        "kelvinebrun/Slug.php": "1.*"
+    }
+}

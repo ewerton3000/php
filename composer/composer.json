@@ -1,0 +1,17 @@
+{
+    "name": "hcode/composer",
+    "description": "Aula de PHP 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ewerton3000",
+            "email": "ewt500@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev" ,
+    
+    "require": {
+       
+        "monolog/monolog":"1.0.*"
+    }
+}

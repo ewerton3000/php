@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<section>
+					<article>
+						<header> <!--Puxando do SQL da tabela postagem o titulo-->
+							<h2>{{titulo}}</h2>
+						</header>
+						<p>{{conteudo}}</p>
+
+						<br>
+   						<hr>
+                        <br>
+                        <form method="post" action="http://127.0.0.1/projeto-site-de-postagens/?pagina=post&metodo=addComent">
+                        	<span>Nome:</span><br>
+                        	<input type="text" name="nome"><br><br>
+
+                        	<span>Mensagem:</span><br>
+                        	<textarea name="msg"></textarea><br><br>
+                        
+                        <input type="hidden" name="id" value="{{id}}"><br><br>
+                        	<input type="submit" value="Enviar">
+                        </form>                        
+                        <br><br>
+                        <!--Usando o for para exibir os  comentários no site-->
+                        <h2>Comentarios:</h2>
+                        <!--Se os comentarios estiverem vazios -->
+                        {% if comentarios == false %}
+                             <p>Nenhum comentário encontrado para essa postagem!</p>
+                             {% else %}<!--Senão mostra os comentarios-->
+                             {% for coment in comentarios %}
+                             <h3>{{coment.nome}}</h3>
+                             <p>{{coment.mensagem}}</p>
+                             <br>
+                        {% endfor %}
+                        {% endif %}
+
+					</article>
+					
+					
+		</section>
+
+
+		<!--Repare no for que em vez de usar comentario nos dois parametros  foi só usado um deles o da direita que conta com a variavel $parametros['conteudo'] no arquivo PostController.phpnt  e o    (coment) serve pra apontar as linhas que serão exibidas como exemplo:{{coment.nome}}-->
+</html>

@@ -1,0 +1,151 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+
+		<title>Ajax fácil com Javascript puro</title>
+		
+		<!-- bootstrap - link cdn -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	
+	<!--Javascript-->
+	<script type="text/javascript">
+		
+		var httpRequest;
+         
+         //Usando parametros na função para serem chamados
+		function fazerRequisicao(url , destino){
+          //Usando o document.getElementById executar o parâmetro destino e usando innetHTML 
+          document.getElementById(destino).innerHTMl = '<center> <img src="loader.gif"> </center>';
+          //Chamando a imagem quando essa ação for executada e utilizando a tag center para centralizar a imagem
+
+
+			//Para navegadores antigos como mozila,IE7 e outros esta ação abaixo será executada
+
+			if (window.XMLHttpRequest) {
+				httpRequest = new XMLHttpRequest();
+			}
+
+			//Para navegadores mais antigos IE4,IE5,IE6
+
+			else if (window.ActiveXObject){
+				try{
+                       
+					httpRequest = new ActiveXObject("Msxm12.XMLHTTP");
+				}
+				catch(e){
+					try{
+						httpRequest = new ActiveXObject("Micorsoft.XMLHTTP");
+					}
+					catch(e){
+                       
+                       alert("Impossível instanciar o objeto xml-http-request para este navegador/versão");
+					}
+				}
+			}
+
+			if(!httpRequest){
+				alert("Erro ao tentar criar uma instância do objeto XML-Http-Request");
+				return false;
+			}
+            /*
+            Use estes exemplos para testar a requisição do parametro da função    
+
+            alert(url);
+            alert(destino);
+            */
+            
+            //Chamando a função situacaoRequisicao para cada situação de estado com onreadystatechange e usando o parâmetro url da função fazerRequisição
+            httpRequest.onreadystatechange = situacaoRequisicao;
+
+			httpRequest.open('GET' , url);
+			httpRequest.send();
+            
+
+		}
+
+		function situacaoRequisicao(){
+        //Se o cabeçalho for criado mas não foi disparado
+        /*
+            TESTES DE ESTADO DO ready.State com if
+
+        if (httpRequest.readyState == 1) {
+        	alert('Requisição será feita em segundos');
+        }
+        
+        if (httpRequest.readyState == 4) {
+
+        	alert('Requisição foi feita e já foi entregue , oque devo fazer?');
+        }*/
+          
+          if (httpRequest.readyState == 4) {
+          	if (httpRequest.status == 200) {
+          		//alert(httpRequest.responseText); <- Se quiser o conteúdo da página pode ficar na caixa de alerta
+
+          		//Usando o document.getElementById para inserir o conteúdo onde está o id correspondente e tambem usando innerHTML
+          		document.getElementById('div_conteudo').innerHTML = httpRequest.responseText;
+          	}
+          }
+		}
+ 
+
+
+	</script>
+
+	</head>
+
+	<body>
+
+		<!-- Static navbar -->
+	    <nav class="navbar navbar-default navbar-static-top">
+	      <div class="container">
+	        <div class="navbar-header">
+	        	<h3>Requisições síncronas e assíncronas</h3>
+	        </div>
+	      </div>
+	    </nav>
+
+
+	    <div class="container">
+
+	    	<div class="row">
+	    		<div class="col-md-4 center"></div>
+	    		<div class="col-md-4 center">
+	    <!--Usando a função do JS para mostrar o conteúdo na página e usando a div conteudo para recebela onde a id = div_conteudo está-->		
+	    			<a href="#" class="btn btn-primary" onclick="fazerRequisicao('pagina_1_conteudo.html','div_conteudo')">Página 1</a>
+	    			<a href="#" class="btn btn-primary" onclick="fazerRequisicao('pagina_2_conteudo.html','div_conteudo')">Página 2</a>
+	    			<a href="#" class="btn btn-primary" onclick="fazerRequisicao('pagina_3_conteudo.html','div_conteudo')">Página 3</a>
+	    		</div>
+	    		<div class="col-md-4 center"></div>
+	    	</div>
+	    	
+	    	<br />
+	    	<div class="row">
+		    	<div class="col-md-1"></div>
+                
+                <!--Usando a div para receber um conteudo-->
+		    	<div class="col-md-10" id=div_conteudo></div>
+		    		
+				<div class="col-md-1"></div>
+			</div>
+
+		</div>	
+	</body>
+</html>
+
+<!--
+AJAX:O ajax é um framework do javascript que permite fazer requisições ao servidor web onde ele pode fazer requisições síncronas e assíncronas.Ele possui um recurso que evita do navegador carregar a proxima página atualizando quando clicarmos no link feito pelo JS
+
+Ele pode ser feito pela id no html e chamar a função do JS para uma tag do html exemplo:
+<script type="text/javascript">
+
+function nomedafuncao(){
+	
+	alert("EU sou um conteudo ;)");
+}
+</script>
+
+OBS:depois da função sempre use estas aspas ''
+<div id="id-da-div" onclick='nomedafuncao('nome_da_pagina.html','id-da-div')></div>
+
+-->
