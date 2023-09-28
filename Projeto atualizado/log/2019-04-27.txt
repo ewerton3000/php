@@ -1,0 +1,1 @@
+[27-Apr-2019 16:13:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4

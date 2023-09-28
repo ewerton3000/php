@@ -1,0 +1,752 @@
+[10-Jun-2019 13:43:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:03:37 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[10-Jun-2019 14:04:59 UTC] PHP Notice:  Undefined index: beta in /var/www/html/view/Admin/analiseequipe.view.php on line 103
+[10-Jun-2019 14:04:59 UTC] PHP Notice:  Undefined index: beta in /var/www/html/view/Admin/analiseequipe.view.php on line 103
+[10-Jun-2019 14:04:59 UTC] PHP Notice:  Undefined index: beta in /var/www/html/view/Admin/analiseequipe.view.php on line 103
+[10-Jun-2019 14:12:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 14:12:17 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 14:13:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 14:13:18 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 14:14:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 14:14:10 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 14:14:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:15:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 14:15:16 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 14:15:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:18:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:19:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:19:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:19:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:19:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:19:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/aceitarpedido.app.php on line 3
+[10-Jun-2019 14:19:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:19:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:20:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:25:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:25:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/aceitarpedido.app.php on line 3
+[10-Jun-2019 14:25:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:25:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:25:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:26:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:26:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:26:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:27:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:28:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:28:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/aceitarpedido.app.php on line 3
+[10-Jun-2019 14:28:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:28:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:29:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 14:29:24 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 14:29:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:29:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:29:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:30:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/gerarOS.view.php on line 5
+[10-Jun-2019 14:31:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 14:31:06 UTC] PHP Notice:  Undefined index: valortotal in /var/www/html/app/gerarpdf.app.php on line 12
+[10-Jun-2019 14:31:06 UTC] PHP Notice:  Undefined index: servico in /var/www/html/app/gerarpdf.app.php on line 13
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 73
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 73
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 75
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 75
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 76
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 76
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 81
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 81
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 84
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 84
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 85
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 85
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 87
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 87
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 88
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 88
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 92
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 92
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 93
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 93
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 95
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 95
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 96
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 96
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 117
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 117
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 120
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 120
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 122
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 122
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 124
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 124
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 125
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 125
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 128
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 128
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 129
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 129
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 131
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 131
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 132
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 132
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 155
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 155
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 158
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 158
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 159
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 159
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 160
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 160
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 162
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 162
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 163
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 163
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 164
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 164
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 169
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 169
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 171
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 171
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 173
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 173
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 175
+[10-Jun-2019 14:31:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 175
+[10-Jun-2019 14:32:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 14:32:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:32:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:32:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/aceitarpedido.app.php on line 3
+[10-Jun-2019 14:32:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:32:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:32:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:33:05 UTC] PHP Notice:  Undefined index: valortotal in /var/www/html/app/gerarpdf.app.php on line 12
+[10-Jun-2019 14:33:05 UTC] PHP Notice:  Undefined index: servico in /var/www/html/app/gerarpdf.app.php on line 13
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 73
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 73
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 75
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 75
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 76
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 76
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 81
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 81
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 84
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 84
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 85
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 85
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 87
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 87
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 88
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 88
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 92
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 92
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 93
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 93
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 95
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 95
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 96
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 96
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 117
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 117
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 120
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 120
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 122
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 122
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 124
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 124
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 125
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 125
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 128
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 128
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 129
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 129
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 131
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 131
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 132
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 132
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 155
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 155
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 158
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 158
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 159
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 159
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 160
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 160
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 162
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 162
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 163
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 163
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 164
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 164
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 169
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 169
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 171
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 171
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 173
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 173
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 175
+[10-Jun-2019 14:33:05 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 175
+[10-Jun-2019 14:33:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:36:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:37:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:37:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:38:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/gerarOS.view.php on line 5
+[10-Jun-2019 14:38:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 14:38:32 UTC] PHP Notice:  Undefined index: valortotal in /var/www/html/app/gerarpdf.app.php on line 12
+[10-Jun-2019 14:38:32 UTC] PHP Notice:  Undefined index: servico in /var/www/html/app/gerarpdf.app.php on line 13
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 73
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 73
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 75
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 75
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 76
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 76
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 81
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 81
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 84
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 84
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 85
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 85
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 87
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 87
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 88
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 88
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 92
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 92
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 93
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 93
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 95
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 95
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 96
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 96
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 117
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 117
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 120
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 120
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 122
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 122
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 124
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 124
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 125
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 125
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 128
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 128
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 129
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 129
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 131
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 131
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 132
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 132
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 155
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 155
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 158
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 158
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 159
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 159
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 160
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 160
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 162
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 162
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 163
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 163
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 164
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 164
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 169
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 169
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 171
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 171
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 173
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 173
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 175
+[10-Jun-2019 14:38:32 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/gerarpdf.app.php on line 175
+[10-Jun-2019 14:39:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 14:39:09 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 14:39:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:39:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 14:39:58 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 14:40:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:40:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 14:40:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:40:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:40:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:41:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:41:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/gerarOS.view.php on line 5
+[10-Jun-2019 14:42:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 14:42:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:42:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:42:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/gerarOS.view.php on line 5
+[10-Jun-2019 14:42:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 14:42:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:42:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:42:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:42:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/aceitarpedido.app.php on line 3
+[10-Jun-2019 14:42:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:42:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:42:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:42:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:43:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 14:43:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/gerarOS.view.php on line 5
+[10-Jun-2019 14:43:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 14:43:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 14:43:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 14:43:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:47:29 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 15
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 15
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:36 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[10-Jun-2019 14:47:49 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[10-Jun-2019 14:48:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/listapedidosfeitos.php on line 7
+[10-Jun-2019 14:48:16 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Cliente/listapedidosfeitos.php on line 12
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 30
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 30
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:48:16 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[10-Jun-2019 14:49:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 14:49:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 7
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 30
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 30
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 46
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 47
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 50
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 51
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 54
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:49:25 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Equipe/gerarpedidoscompletos.php on line 55
+[10-Jun-2019 14:50:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 14:51:09 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[10-Jun-2019 14:51:46 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[10-Jun-2019 14:51:51 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 15
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 15
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:52:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 14:53:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altequipe.view.php on line 5
+[10-Jun-2019 14:53:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altcliente.view.php on line 5
+[10-Jun-2019 14:57:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altequipe.view.php on line 5
+[10-Jun-2019 16:41:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 19:52:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 19:55:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 19:57:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 19:58:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 19:58:54 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 19:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 19:59:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[10-Jun-2019 19:59:11 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[10-Jun-2019 19:59:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[10-Jun-2019 20:00:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[10-Jun-2019 20:00:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/aceitarpedido.app.php on line 3
+[10-Jun-2019 20:00:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[10-Jun-2019 20:06:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/gerarOS.view.php on line 5
+[10-Jun-2019 20:07:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 20:10:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 20:10:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[10-Jun-2019 20:32:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[10-Jun-2019 21:14:56 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[10-Jun-2019 21:21:43 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[10-Jun-2019 21:25:25 UTC] PHP Notice:  Undefined index: beta in /var/www/html/view/Admin/analiseequipe.view.php on line 103
+[10-Jun-2019 21:25:25 UTC] PHP Notice:  Undefined index: beta in /var/www/html/view/Admin/analiseequipe.view.php on line 103
+[10-Jun-2019 21:30:11 UTC] PHP Notice:  Undefined variable: uide in /var/www/html/view/Admin/analiseequipe.view.php on line 39
+[10-Jun-2019 21:30:11 UTC] PHP Notice:  Undefined variable: uide in /var/www/html/view/Admin/analiseequipe.view.php on line 54
+[10-Jun-2019 21:30:11 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Admin/analiseequipe.view.php on line 69
+[10-Jun-2019 21:30:11 UTC] PHP Notice:  Undefined variable: cnpje in /var/www/html/view/Admin/analiseequipe.view.php on line 70
+[10-Jun-2019 21:30:11 UTC] PHP Notice:  Undefined variable: integrantes in /var/www/html/view/Admin/analiseequipe.view.php on line 71
+[10-Jun-2019 21:30:11 UTC] PHP Notice:  Undefined variable: enderecoe in /var/www/html/view/Admin/analiseequipe.view.php on line 72
+[10-Jun-2019 21:30:11 UTC] PHP Notice:  Undefined variable: telefonee in /var/www/html/view/Admin/analiseequipe.view.php on line 73
+[10-Jun-2019 21:30:11 UTC] PHP Notice:  Undefined variable: emaile in /var/www/html/view/Admin/analiseequipe.view.php on line 74
+[10-Jun-2019 21:41:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altequipe.view.php on line 5
+[10-Jun-2019 21:47:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altequipe.view.php on line 5
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[10-Jun-2019 21:51:27 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 15
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 15
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 32
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 33
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 34
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 35
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 36
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:56:43 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfequipes.app.php on line 37
+[10-Jun-2019 21:59:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altcliente.view.php on line 5
+[10-Jun-2019 23:41:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[10-Jun-2019 23:41:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[10-Jun-2019 23:46:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[10-Jun-2019 23:46:27 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[10-Jun-2019 23:46:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[10-Jun-2019 23:47:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[10-Jun-2019 23:47:22 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[10-Jun-2019 23:47:22 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[10-Jun-2019 23:47:34 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[10-Jun-2019 23:47:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[10-Jun-2019 23:47:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[10-Jun-2019 23:47:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[10-Jun-2019 23:55:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/excluirintegrante.app.php on line 4
+[10-Jun-2019 23:56:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[10-Jun-2019 23:56:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[10-Jun-2019 23:56:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[10-Jun-2019 23:56:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[10-Jun-2019 23:56:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/excluirintegrante.app.php on line 4
+[10-Jun-2019 23:56:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[10-Jun-2019 23:56:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[10-Jun-2019 23:57:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5

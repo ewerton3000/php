@@ -1,0 +1,144 @@
+/* ----------- GRID ----------- */
+/*Header Styles*/
+
+.main-head{
+  height: 30rem;
+}
+ header{
+
+   nav{
+     z-index: 3;
+
+     i{
+       display: none;
+       visibility: hidden;
+       float: left;
+     }
+
+     ul{
+       position: relative;
+       top:0;
+       left:0;
+       background-color: transparent;
+       padding: 0;
+       text-align: right;
+
+       a{
+         font-size: 1.3rem;
+         padding: .8rem 0;
+         font-weight: 500;
+         // border: 1px solid cyan;
+         width: 13%;
+         text-align: center;
+       }
+     }
+   }//FIM nav;
+
+ .hero{
+   height: 25rem;
+   overflow: hidden;
+
+   img{
+     content: none;
+   }
+   h1{
+     font-size: 4.5rem;
+     margin-top: 5rem;
+     position: relative;
+     z-index: 2;
+
+     span{
+       color: $cor-1;
+     }
+   }
+
+   video{
+     position: absolute;
+     top:0;
+     left: 0;
+     width: 100%;
+     z-index: 0;
+    -webkit-filter: hue-rotate(50deg); /* Safari 6.0 - 9.0 */
+    filter: hue-rotate(50deg);
+   }
+ }//FIM hero;
+}//FIM header;
+
+
+
+/*Main Styles*/
+  main{
+
+    .sobre{
+      padding-top: 5rem;
+
+
+      h2{
+        font-size: 2.3rem;
+        color: #222;
+      }
+    }
+
+    .servicos{
+
+      h2{
+        font-size: 2.3rem;
+        margin-bottom: 1rem;
+      }
+      article{
+        width: 25%;
+
+        p{
+          padding: 2rem 0;
+        }
+      }
+    }//FIM servicos;
+
+    .escolha{
+      width: 30%;
+
+      a{
+        width: 60%;
+      }
+    }//FIM escolha;
+
+    .cadastro{
+      width: 60%;
+    }
+
+    .login{
+      width: 30%;
+      margin-top: 6rem;
+
+      input{
+        width: 80%;
+      }
+    }//FIM login;
+
+    .painel{
+      width: 60%;
+
+      h2{
+        font-size: 2rem;
+        color: #333;
+      }
+
+      a{
+        width: 40%;
+        margin: .8rem .5rem;
+      }
+    }//FIM painel;
+
+    .visor{
+        width:60%;
+
+        a{
+          width: auto;
+          padding: 0.5rem;
+        }
+    }
+  }//FIM main;
+
+
+
+/*Footer styles*/

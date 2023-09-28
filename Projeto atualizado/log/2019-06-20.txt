@@ -1,0 +1,7 @@
+[20-Jun-2019 23:59:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/altcliente.view.php on line 5
+[20-Jun-2019 23:59:00 UTC] PHP Notice:  Undefined index: administrador in /var/www/html/view/Cliente/altcliente.view.php on line 10
+[20-Jun-2019 23:59:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[20-Jun-2019 23:59:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/listapedidosfeitos.php on line 7
+[20-Jun-2019 23:59:06 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Cliente/listapedidosfeitos.php on line 12
+[20-Jun-2019 23:59:06 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 30
+[20-Jun-2019 23:59:06 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 30

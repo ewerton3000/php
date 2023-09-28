@@ -1,0 +1,101 @@
+[28-May-2019 17:38:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/listapedidosfeitos.php on line 7
+[28-May-2019 17:38:48 UTC] PHP Notice:  Undefined variable: id in /var/www/html/view/Cliente/listapedidosfeitos.php on line 23
+[28-May-2019 17:38:48 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 30
+[28-May-2019 17:38:48 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 30
+[28-May-2019 17:40:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/listapedidosfeitos.php on line 7
+[28-May-2019 17:40:54 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Cliente/listapedidosfeitos.php on line 12
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 30
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 30
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 54
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 55
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 58
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 59
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 62
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[28-May-2019 17:40:54 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/view/Cliente/listapedidosfeitos.php on line 63
+[28-May-2019 18:34:54 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[28-May-2019 18:38:46 UTC] PHP Notice:  Undefined index: beta in /var/www/html/view/Admin/analiseequipe.view.php on line 103
+[28-May-2019 18:38:46 UTC] PHP Notice:  Undefined index: beta in /var/www/html/view/Admin/analiseequipe.view.php on line 103
+[28-May-2019 19:06:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[28-May-2019 19:08:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[28-May-2019 19:08:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[28-May-2019 19:09:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[28-May-2019 19:09:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[28-May-2019 19:16:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[28-May-2019 19:16:50 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[28-May-2019 23:04:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[28-May-2019 23:04:14 UTC] PHP Notice:  Undefined variable: chave in /var/www/html/view/Equipe/pedidosabertos.view.php on line 25
+[28-May-2019 23:13:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[28-May-2019 23:14:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[28-May-2019 23:15:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[28-May-2019 23:25:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[28-May-2019 23:34:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[28-May-2019 23:45:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[28-May-2019 23:52:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 29
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 34
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 49
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 51
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 53
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 89
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: cnpje in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 90
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 91
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: enderecoe in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 92
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: telefonee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 93
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: emaile in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 94
+[28-May-2019 23:53:02 UTC] PHP Notice:  Undefined variable: senhae in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 95
+[28-May-2019 23:53:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[28-May-2019 23:56:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[28-May-2019 23:56:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 29
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 34
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 49
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 51
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 53
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 89
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: cnpje in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 90
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 91
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: enderecoe in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 92
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: telefonee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 93
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: emaile in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 94
+[28-May-2019 23:56:26 UTC] PHP Notice:  Undefined variable: senhae in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 95
+[28-May-2019 23:56:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 29
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 34
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 49
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 51
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 53
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 89
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: cnpje in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 90
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 91
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: enderecoe in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 92
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: telefonee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 93
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: emaile in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 94
+[28-May-2019 23:56:41 UTC] PHP Notice:  Undefined variable: senhae in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 95
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 29
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 34
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 51
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 53
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 89
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: cnpje in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 90
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 91
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: enderecoe in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 92
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: telefonee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 93
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: emaile in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 94
+[28-May-2019 23:56:59 UTC] PHP Notice:  Undefined variable: senhae in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 95
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 29
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: cnpjfiltered in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 34
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 51
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 53
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: nomee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 89
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: cnpje in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 90
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 91
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: enderecoe in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 92
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: telefonee in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 93
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: emaile in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 94
+[28-May-2019 23:57:45 UTC] PHP Notice:  Undefined variable: senhae in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 95

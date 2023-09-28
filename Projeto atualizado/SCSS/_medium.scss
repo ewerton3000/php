@@ -1,0 +1,198 @@
+/* ----------- GRID ----------- */
+.blue, .black{
+  background-image: url("../images/circuitrans2.png");
+  // background-size: cover;
+  background-attachment: fixed;
+
+}
+
+/*Header Styles*/
+ header{
+
+   .hero{
+
+     h1{
+       font-size: 3rem;
+     }
+   }//FIM hero;
+ }//FIM header;
+
+
+
+/*Main Styles*/
+  main{
+    .sobre{
+      background-image: url("../images/memphis.png");
+      background-attachment: fixed;
+    }
+
+    .servicos{
+
+      article{
+        width: 42%;
+        height: 35rem;
+        text-align:   center;
+        margin: 1rem;
+      }
+    }//FIM servicos;
+
+    .box{
+      p{
+        display: inline-block;
+      }
+
+      a:hover{
+        background-color: $cor-2;
+        color: white;
+        transition: 0.5s ease;
+      }
+      button:hover{
+        background-color: white;
+        color: $cor-3;
+        transition: 0.5s ease;
+        border: 1px solid $cor-2;
+      }
+    }
+
+    .sobre{
+      h2{
+        width: 50%;
+      }
+      p{
+        width: 70%;
+      }
+    }//FIM sobre;
+
+    .escolha{
+      width: 50%;
+    }
+    .cadastro{
+      text-align: center;
+
+      p{
+        text-align: left;
+        width: 45%;
+        display: inline-block;
+
+        input{
+          width: 90%;
+        }
+      }
+    }//FIM cadastro;
+
+
+
+    select{
+      font-size: 1.2rem;
+      font-weight: 300;
+      color: $cor-3;
+      border: 1px solid $cor-3;
+      padding: .5rem;
+      margin: 1rem 0;
+    }
+
+    textarea{
+      width: 80%;
+      height: 10rem;
+      resize: none;
+    }
+
+    .login{
+      width: 40%;
+
+      textarea{
+        width: 80%;
+      }
+    }//FIM login;
+
+    .painel{
+
+      a{
+        font-size: 1.3rem;
+        width: 40%;
+        padding:.7rem;
+      }
+
+      p{
+        width: 45%;
+      }
+    }//FIM painel;
+
+
+    .pedidos{
+      width:80%;
+
+     a{
+       width: auto;
+       padding: .5rem .7rem;
+     }
+     b{
+       font-size: 1.2rem;
+       color: $cor-1;
+       line-height: 2rem;
+     }
+      p{
+        width: 45%;
+        display:  inline-block;
+        text-align:  left
+      }
+    }//FIM pedidos;
+
+    .alter{
+      width:90%;
+
+      h3{
+        font-size: 1.6rem;
+        font-weight: 500;
+        color: $cor-3;
+      }
+
+      p{
+        width: 49%;
+        display: inline-block;
+      }
+
+      .block{
+        border: 1px solid lightgrey;
+        margin-top: -1px;
+
+        a{
+          width: auto;
+          border: none;
+          font-size: 1.2rem;
+          text-decoration: underline;
+        }
+        b{
+          color: $cor-3;
+          font-size: 1.2rem;
+          line-height: 3rem;
+        }
+      }
+      .red{
+        border: 1px solid red;
+        color: red;
+      }
+      li{
+        list-style-type: none;
+      }
+    }//FIM visor;
+
+
+  // Para as áginas de alerta:
+    .alert{
+       width: 60%;
+       padding: 1.5rem 1rem;
+       margin-top: 10rem;
+       a{
+         width: 35%;
+         font-size: 1.3rem;
+         margin:.5rem;
+       }
+    }//FIM alert;
+  }//FIM main;
+
+
+
+
+
+/*Footer styles*/

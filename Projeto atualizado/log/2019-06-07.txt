@@ -1,0 +1,66 @@
+[07-Jun-2019 11:59:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:00:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[07-Jun-2019 12:00:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:00:08 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[07-Jun-2019 12:00:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[07-Jun-2019 12:02:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[07-Jun-2019 12:02:25 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[07-Jun-2019 12:02:25 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[07-Jun-2019 12:03:04 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[07-Jun-2019 12:03:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[07-Jun-2019 12:03:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:03:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[07-Jun-2019 12:04:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:04:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[07-Jun-2019 12:04:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:04:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:04:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[07-Jun-2019 12:04:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:05:00 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[07-Jun-2019 12:05:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[07-Jun-2019 12:05:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[07-Jun-2019 12:05:27 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[07-Jun-2019 12:05:27 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[07-Jun-2019 12:05:32 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[07-Jun-2019 12:05:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[07-Jun-2019 12:05:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:07:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[07-Jun-2019 12:08:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[07-Jun-2019 12:08:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[07-Jun-2019 12:11:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[07-Jun-2019 12:11:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[07-Jun-2019 12:11:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/gerarOS.view.php on line 5
+[07-Jun-2019 12:11:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[07-Jun-2019 12:21:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[07-Jun-2019 12:21:09 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[07-Jun-2019 12:21:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[07-Jun-2019 12:23:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[07-Jun-2019 12:24:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[07-Jun-2019 12:24:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/aceitarpedido.app.php on line 3
+[07-Jun-2019 12:24:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[07-Jun-2019 12:26:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[07-Jun-2019 12:26:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[07-Jun-2019 12:29:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[07-Jun-2019 12:29:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[07-Jun-2019 12:29:58 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Equipe/pedidosabertos.view.php on line 9
+[07-Jun-2019 12:32:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[07-Jun-2019 12:32:32 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[07-Jun-2019 12:32:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[07-Jun-2019 12:34:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[07-Jun-2019 12:34:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[07-Jun-2019 12:35:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[07-Jun-2019 12:35:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/escolhaintegrante.view.php on line 3
+[07-Jun-2019 12:35:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/aceitarpedido.app.php on line 3
+[07-Jun-2019 12:35:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[07-Jun-2019 12:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /var/www/html/app/loginadm.app.php:13
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/app/loginadm.app.php on line 13
+[07-Jun-2019 12:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /var/www/html/app/loginadm.app.php:13
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/app/loginadm.app.php on line 13
+[07-Jun-2019 12:49:50 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[07-Jun-2019 12:50:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altequipe.view.php on line 5
+[07-Jun-2019 12:50:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altequipe.view.php on line 5
+[07-Jun-2019 12:50:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Admin/altequipe.view.php on line 5

@@ -1,0 +1,8 @@
+[11-Apr-2019 20:55:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/altcliente.view.php on line 5
+[11-Apr-2019 20:55:05 UTC] PHP Notice:  Undefined index: administrador in /var/www/html/view/Cliente/altcliente.view.php on line 10
+[11-Apr-2019 20:55:11 UTC] PHP Notice:  Undefined index: cpf in /var/www/html/app/altcliente.app.php on line 13
+[11-Apr-2019 20:55:11 UTC] PHP Notice:  Undefined index: tipopessoa in /var/www/html/app/altcliente.app.php on line 15
+[11-Apr-2019 20:55:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/altcliente.view.php on line 5
+[11-Apr-2019 20:55:16 UTC] PHP Notice:  Undefined index: administrador in /var/www/html/view/Cliente/altcliente.view.php on line 10
+[11-Apr-2019 20:55:24 UTC] PHP Notice:  Undefined index: cpf in /var/www/html/app/altcliente.app.php on line 13
+[11-Apr-2019 20:55:24 UTC] PHP Notice:  Undefined index: tipopessoa in /var/www/html/app/altcliente.app.php on line 15

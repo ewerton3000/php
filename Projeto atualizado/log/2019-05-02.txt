@@ -1,0 +1,42 @@
+[02-May-2019 12:29:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/registropedido.app.php on line 4
+[02-May-2019 12:29:20 UTC] PHP Notice:  Undefined variable: cidade in /var/www/html/app/registropedido.app.php on line 21
+[02-May-2019 12:29:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/acompanharpedido.view.php on line 5
+[02-May-2019 12:29:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Cliente/altcliente.view.php on line 5
+[02-May-2019 12:29:32 UTC] PHP Notice:  Undefined index: administrador in /var/www/html/view/Cliente/altcliente.view.php on line 10
+[02-May-2019 12:30:35 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[02-May-2019 12:32:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[02-May-2019 12:32:28 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Equipe/pedidosabertos.view.php on line 9
+[02-May-2019 12:33:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[02-May-2019 12:33:19 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Equipe/pedidosabertos.view.php on line 9
+[02-May-2019 12:34:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[02-May-2019 12:34:02 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Equipe/pedidosabertos.view.php on line 9
+[02-May-2019 12:34:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 4
+[02-May-2019 12:34:04 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Equipe/pedidosaceitos.view.php on line 9
+[02-May-2019 12:34:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 4
+[02-May-2019 12:34:06 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Equipe/pedidosfinalizados.view.php on line 9
+[02-May-2019 12:34:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[02-May-2019 12:34:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /var/www/html/view/Equipe/altequipe.view.php:29
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/view/Equipe/altequipe.view.php on line 29
+[02-May-2019 12:36:37 UTC] PHP Notice:  Undefined index: nome_cliente in /var/www/html/app/loginadm.app.php on line 15
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant leading - assumed 'leading' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 15
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 31
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 32
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 33
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 34
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 35
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant justification - assumed 'justification' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[02-May-2019 12:36:39 UTC] PHP Warning:  Use of undefined constant spacing - assumed 'spacing' (this will throw an Error in a future version of PHP) in /var/www/html/app/pdfclientes.app.php on line 36
+[02-May-2019 15:55:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[02-May-2019 15:55:15 UTC] PHP Notice:  Undefined variable: chave in /var/www/html/view/Equipe/pedidosabertos.view.php on line 25
+[02-May-2019 15:56:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[02-May-2019 15:56:33 UTC] PHP Notice:  Undefined index: chave in /var/www/html/view/Equipe/pedidosabertos.view.php on line 9
+[02-May-2019 16:06:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4
+[02-May-2019 16:18:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/pedidosabertos.view.php on line 4

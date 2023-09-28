@@ -1,0 +1,93 @@
+[05-Jun-2019 00:40:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: integrantese in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 33
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: i in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 37
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: i in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 40
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: i in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 43
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: i in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 46
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: i in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 49
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: i in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 52
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: i in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 55
+[05-Jun-2019 00:40:35 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 59
+[05-Jun-2019 00:40:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 59
+[05-Jun-2019 00:51:37 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[05-Jun-2019 00:51:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[05-Jun-2019 00:54:34 UTC] PHP Notice:  Undefined index: curriculoi in /var/www/html/app/adicionarintegrantes.app.php on line 8
+[05-Jun-2019 00:55:06 UTC] PHP Notice:  Undefined index: curriculoi in /var/www/html/app/adicionarintegrantes.app.php on line 8
+[05-Jun-2019 00:55:36 UTC] PHP Notice:  Undefined index: curriculoi in /var/www/html/app/adicionarintegrantes.app.php on line 8
+[05-Jun-2019 00:59:40 UTC] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /var/www/html/app/adicionarintegrantes.app.php on line 11
+[05-Jun-2019 00:59:40 UTC] PHP Notice:  Array to string conversion in /var/www/html/app/adicionarintegrantes.app.php on line 11
+[05-Jun-2019 01:13:14 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[05-Jun-2019 01:13:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[05-Jun-2019 01:36:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:36:16 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 26
+[05-Jun-2019 01:36:16 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 26
+[05-Jun-2019 01:36:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:36:28 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 26
+[05-Jun-2019 01:36:28 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 26
+[05-Jun-2019 01:36:28 UTC] PHP Notice:  Undefined variable: chave_integrante in /var/www/html/app/adicionarintegrantes.app.php on line 35
+[05-Jun-2019 01:36:28 UTC] PHP Notice:  Undefined variable: curriculonomei in /var/www/html/app/adicionarintegrantes.app.php on line 35
+[05-Jun-2019 01:38:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:38:14 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 26
+[05-Jun-2019 01:38:14 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 26
+[05-Jun-2019 01:38:14 UTC] PHP Notice:  Undefined variable: chave_integrante in /var/www/html/app/adicionarintegrantes.app.php on line 74
+[05-Jun-2019 01:39:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:39:14 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 28
+[05-Jun-2019 01:39:14 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 28
+[05-Jun-2019 01:41:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:41:08 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 28
+[05-Jun-2019 01:41:08 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 28
+[05-Jun-2019 01:41:08 UTC] Data truncated for column 'cpfi' at row 1
+[05-Jun-2019 01:43:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:43:07 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:43:07 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:44:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[05-Jun-2019 01:47:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/excluirmembros.view.php on line 4
+[05-Jun-2019 01:47:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/view/Equipe/altequipe.view.php on line 5
+[05-Jun-2019 01:47:26 UTC] PHP Notice:  Undefined variable: especialtru in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[05-Jun-2019 01:47:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/view/Equipe/adicionarintegrantes.view.php on line 57
+[05-Jun-2019 01:53:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:53:51 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:53:51 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:53:51 UTC] PHP Notice:  Undefined variable: curriculonomei in /var/www/html/app/adicionarintegrantes.app.php on line 76
+[05-Jun-2019 01:53:51 UTC] PHP Notice:  Undefined variable: curriculonomei in /var/www/html/app/adicionarintegrantes.app.php on line 78
+[05-Jun-2019 01:53:51 UTC] Incorrect integer value: '' for column 'cpfi' at row 1
+[05-Jun-2019 01:54:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:54:28 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:54:28 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:54:28 UTC] Unknown column '5cc241497183a7.11445288' in 'where clause'
+[05-Jun-2019 01:55:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:55:56 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:55:56 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:57:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:57:44 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:57:44 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:58:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:58:29 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:58:29 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:58:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:58:32 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:58:32 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:58:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:58:47 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:58:47 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:59:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:59:14 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:59:14 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:59:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:59:41 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:59:41 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:59:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:59:50 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:59:50 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:59:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 01:59:52 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 01:59:52 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 02:02:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 02:02:16 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 02:02:16 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 02:02:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/html/app/adicionarintegrantes.app.php on line 4
+[05-Jun-2019 02:02:58 UTC] PHP Notice:  Undefined variable: email in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 02:02:58 UTC] PHP Notice:  Undefined variable: telefone in /var/www/html/app/adicionarintegrantes.app.php on line 29
+[05-Jun-2019 02:02:58 UTC] PHP Notice:  Undefined variable: curriculonomei in /var/www/html/app/adicionarintegrantes.app.php on line 76
+[05-Jun-2019 02:02:58 UTC] PHP Notice:  Undefined variable: curriculonomei in /var/www/html/app/adicionarintegrantes.app.php on line 78
+[05-Jun-2019 02:02:58 UTC] Incorrect integer value: '' for column 'cpfi' at row 1
